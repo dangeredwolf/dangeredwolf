@@ -2,5 +2,5 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/284144747860459532
                             )](https://discord.com/users/284144747860459532)
-
-[https://dangeredwolf.com](https://dangeredwolf.com)
+                            
+[![Last.fm Activity](https://toru.kio.dev/api/v1/dangeredwolf/?theme=dark)](https://last.fm/user/dangeredwolf)
