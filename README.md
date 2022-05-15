@@ -2,6 +2,8 @@
 
 I spend a lot of my free time building [ModernDeck](https://github.com/dangeredwolf/ModernDeck), a Twitter client for desktop.
 
+![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=dangeredwolf.dangeredwolf)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/284144747860459532
                             )](https://discord.com/users/284144747860459532)
                             
