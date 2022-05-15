@@ -1,6 +1,6 @@
 ## So much to make, so little time.
 
-I spend a lot of my free time building [ModernDeck](https://github.com/dangeredwolf/ModernDeck), a Twitter client for desktop.
+I spend a lot of my free time building [ModernDeck](https://github.com/dangeredwolf/ModernDeck), a Twitter client for desktop. Also, other random projects, some public some private.
 
 ![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=dangeredwolf.dangeredwolf)
 
