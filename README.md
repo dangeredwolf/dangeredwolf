@@ -4,7 +4,8 @@ I spend a lot of my free time building [ModernDeck](https://github.com/dangeredw
 
 ![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=dangeredwolf.dangeredwolf)
 
-[![dangered wolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=dangeredwolf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=dangeredwolf&count_private=true&hide=issues&include_all_commits=true&show_icons=true&custom_title=GitHub%20Stats&bg_color=1a1c1f&title_color=ffffff&text_color=dcddde&icon_color=5865f2&hide_border=true&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/284144747860459532
                             )](https://discord.com/users/284144747860459532)
